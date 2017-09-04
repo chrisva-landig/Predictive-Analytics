@@ -1,0 +1,9 @@
+According to Kevin Bonne’s Predictive analytics is a group of methods that uses statistical and other empirical techniques to predict future events, based on past occurrences. Although predictive analytics has become a hot topic recently, there are many companies within the supply chain sector that don't make use of it yet.
+
+As literature states, enhancing effectiveness and efficiency of supply chain analytics is a critical component of a company's ability to achieve competitive advantage. Predictive analytics for supply chains is therefore an interesting topic.
+
+Predictive analytics are used in many different fields. This research focuses on the supply chain sector. An example of the use of predictive analytics in the supply chain is predicting the arrival times of a truck or a ship. There are multiple variables that can influence arrival times, for example: the weather, traffic congestion and the driver's driving style.
+
+If the reliability of predicting arrival times can be increased, costs can be saved within the entire supply chain. These costs can be found in waiting times for trucks in distribution centers and improved decision-making. If companies get a better understanding of how predictive analytics should be used, decision-making at management level will be improved.
+
+Currently there is literature available on this research area, but there is no overview. This research will provide this overview by mapping out all of the relevant information available by conducting a systematic literature review, as described by Webster & Watson. Afterwards, the literature will be categorized and presented in terms of models, methods, techniques and applications. We will also show the current trends in predictive analytics for the supply chain, to see where the field is going.
